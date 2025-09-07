@@ -13,3 +13,5 @@
 **Homework 6:** Runs an auditory reaction-time experiment. Participants hear a tone in the left ear, right ear, or both, and press the spacebar when it plays. The program records response times, manages subject IDs, and saves results using PsychPortAudio.
 
 **Homework 7:** Examines how sound affects perception of an animation. Two circles meet behind a square while a bonk or whoosh plays, and participants judge whether they bounced or passed through. The program randomizes sound conditions, records responses, and saves results.
+
+**Homework 8:** This MATLAB/Psychtoolbox project measures visual change detection with mouse responses. In each trial, two blue circles appear; after a random delay, one circle briefly changes luminance (lighter or darker). Participants click the circle that changed as fast as possible. The program randomizes trial types and delays, records response times and accuracy, and saves results to a subject-specific .mat file.
